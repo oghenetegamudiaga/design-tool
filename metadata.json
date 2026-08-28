@@ -1,0 +1,6 @@
+{
+  "name": "Mockup Studio",
+  "description": "Fast, responsive browser-based device mockup generator for creating phone, laptop, browser, and tablet mockups with custom backgrounds and instant 2x export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
